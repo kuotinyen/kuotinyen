@@ -1,7 +1,7 @@
 ### TK
-Software Engineer at Yahoo and co-host iOS@Taipei with friends weekly.
+Software Engineer at Yahoo and co-host iOS@Taipei study group with friends.
 
-### iOS@Taipei Meetup
+### iOS@Taipei
 - [Facebook Group](https://www.facebook.com/groups/ios.taipei/events/)
 - [Github Events Repository](https://github.com/ios-taipei/events/issues)
 - [Gather](https://gather.town/app/nDt8gD5IuUbb4H0B/iOSTaipei)
