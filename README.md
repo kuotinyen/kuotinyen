@@ -1,5 +1,5 @@
 ### TK
-Software Engineer at Yahoo and co-host iOS@Taipei study group with friends.
+Software Engineer at Yahoo and co-host iOS@Taipei study group.
 
 ### iOS@Taipei
 - [Facebook Group](https://www.facebook.com/groups/ios.taipei/events/)
