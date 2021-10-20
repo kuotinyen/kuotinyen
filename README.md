@@ -1,6 +1,11 @@
 ### TK
 Software Engineer at Yahoo and co-host iOS@Taipei ([Facebook group](https://www.facebook.com/groups/ios.taipei/events/), [Github events repository](https://github.com/ios-taipei/events/issues) weekly.
 
+### iOS@Taipei Meetup
+- [Facebook group](https://www.facebook.com/groups/ios.taipei/events/)
+- [Github events repository](https://github.com/ios-taipei/events/issues)
+- [Gather](https://gather.town/app/nDt8gD5IuUbb4H0B/iOSTaipei)
+
 ### Resources
 - [Clean Swift Xcode Files Generator](https://github.com/kuotinyen/clean-swift-builder)
 - [iOS@Taipei shared slides and code samples](https://github.com/kuotinyen/iostp-shares)
