@@ -1,4 +1,5 @@
-### Hi there 👋
+### TK
+Software Engineer at Yahoo and co-host iOS@Taipei ([Facebook group](https://www.facebook.com/groups/ios.taipei/events/), [Github events repository](https://github.com/ios-taipei/events/issues) weekly.
 
 <!--
 **kuotinyen/kuotinyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
